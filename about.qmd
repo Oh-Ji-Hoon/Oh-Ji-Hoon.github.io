@@ -3,15 +3,15 @@ title: "About"
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+    - icon: envelope-at
+      text: Email
+      href: ojihun8588@gmail.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/ojihoon-2020891a9/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/Oh-Ji-Hoon
 ---
 
 This is lasy planning programmer blog.

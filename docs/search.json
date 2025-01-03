@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "my_blog",
+    "title": "Blog",
     "section": "",
     "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJan 3, 2025\n\n\nPost With Code\n\n\nHarlow Malloc\n\n\n\n\nDec 31, 2024\n\n\nWelcome To My Blog\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
   },
@@ -26,5 +26,12 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "No matching items"
   }
 ]

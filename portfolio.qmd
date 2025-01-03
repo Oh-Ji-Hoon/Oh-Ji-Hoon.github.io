@@ -1,7 +1,7 @@
 ---
-title: "my_blog"
+title: "Portfolio"
 listing:
-  contents: posts
+  contents: portfolio
   sort: "date desc"
   type: table
   categories: true
